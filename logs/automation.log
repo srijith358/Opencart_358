@@ -1,0 +1,27 @@
+2025-05-06 10:27:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\SeleniumYoutube2024\Opencart_358\master.xml
+
+2025-05-06 10:27:23 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Starting  TC001_AccountRegistrationTest  *************
+2025-05-06 10:27:27 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Finished  TC001_AccountRegistrationTest ******
+2025-05-06 10:27:31 [main] INFO  testCases.TC002_ValidateLoggingIntoTheApplicationUsingValidCredentials - ******starting TC002_ValidateLoggingIntoTheApplicationUsingValidCredentials *
+2025-05-06 10:27:33 [main] INFO  testCases.TC002_ValidateLoggingIntoTheApplicationUsingValidCredentials - ******emding TC002_ValidateLoggingIntoTheApplicationUsingValidCredentials *
+2025-05-06 10:27:40 [main] INFO  testCases.TC003_LoginDDT - ******starting TC003_LoginDDT *** *
+2025-05-06 10:27:43 [main] INFO  testCases.TC003_LoginDDT - ******emding TC003_LoginDDT ** *
+2025-05-06 10:27:43 [main] INFO  testCases.TC003_LoginDDT - ******starting TC003_LoginDDT *** *
+2025-05-06 10:27:46 [main] INFO  testCases.TC003_LoginDDT - ******starting TC003_LoginDDT *** *
+2025-05-06 10:27:49 [main] INFO  testCases.TC003_LoginDDT - ******starting TC003_LoginDDT *** *
+2025-05-06 10:28:01 [main] INFO  testCases.TC003_LoginDDT - ******emding TC003_LoginDDT ** *
+2025-05-06 10:28:01 [main] INFO  testCases.TC003_LoginDDT - ******starting TC003_LoginDDT *** *
+2025-05-06 10:28:03 [main] INFO  testCases.TC003_LoginDDT - ******emding TC003_LoginDDT ** *
+2025-05-06 10:37:14 [main] INFO  testCases.TC001_AccountRegistrationTest - ***********Starting  TC001_AccountRegistrationTest  *************
+2025-05-06 10:37:17 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Finished  TC001_AccountRegistrationTest ******
+2025-05-06 10:37:22 [main] INFO  testCases.TC002_ValidateLoggingIntoTheApplicationUsingValidCredentials - ******starting TC002_ValidateLoggingIntoTheApplicationUsingValidCredentials *
+2025-05-06 10:37:25 [main] INFO  testCases.TC002_ValidateLoggingIntoTheApplicationUsingValidCredentials - ******emding TC002_ValidateLoggingIntoTheApplicationUsingValidCredentials *
+2025-05-06 10:37:32 [main] INFO  testCases.TC003_LoginDDT - ******starting TC003_LoginDDT *** *
+2025-05-06 10:37:35 [main] INFO  testCases.TC003_LoginDDT - ******emding TC003_LoginDDT ** *
+2025-05-06 10:37:35 [main] INFO  testCases.TC003_LoginDDT - ******starting TC003_LoginDDT *** *
+2025-05-06 10:37:38 [main] INFO  testCases.TC003_LoginDDT - ******starting TC003_LoginDDT *** *
+2025-05-06 10:37:41 [main] INFO  testCases.TC003_LoginDDT - ******starting TC003_LoginDDT *** *
+2025-05-06 10:37:53 [main] INFO  testCases.TC003_LoginDDT - ******emding TC003_LoginDDT ** *
+2025-05-06 10:37:53 [main] INFO  testCases.TC003_LoginDDT - ******starting TC003_LoginDDT *** *
+2025-05-06 10:37:56 [main] INFO  testCases.TC003_LoginDDT - ******emding TC003_LoginDDT ** *
